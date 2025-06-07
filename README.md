@@ -7,18 +7,18 @@ Mobile App for iOS to scroll through all Pokemons. Catch Pokemons and see them i
 <br>
 
 <p align="center"> 
-<img src="https://github.com/VrickPL/Pokedex/assets/122796088/1d4accf4-3ab2-4931-99cb-d10466f74090" width="310" height="660">
-<img src="https://github.com/VrickPL/Pokedex/assets/122796088/cbf925a3-aa2e-4af4-a55c-38ecb946780c" width="310" height="660">
+<img src="https://github.com/jkazubski/Pokedex/assets/122796088/1d4accf4-3ab2-4931-99cb-d10466f74090" width="310" height="660">
+<img src="https://github.com/jkazubski/Pokedex/assets/122796088/cbf925a3-aa2e-4af4-a55c-38ecb946780c" width="310" height="660">
 </p>
 
 ## Table of contents 
-- [Used technologies and libraries](https://github.com/VrickPL/Pokedex/blob/main/README.md#used-technologies-and-libraries)
-- [Splash Screen](https://github.com/VrickPL/Pokedex?tab=readme-ov-file#splash-screen)
-- [Pokedex section](https://github.com/VrickPL/Pokedex?tab=readme-ov-file#pokedex-section)
-- [Pokemon](https://github.com/VrickPL/Pokedex?tab=readme-ov-file#pokemon)
-- [Favourite section](https://github.com/VrickPL/Pokedex?tab=readme-ov-file#favourite-section)
-- [Search](https://github.com/VrickPL/Pokedex?tab=readme-ov-file#search)
-- [Settings](https://github.com/VrickPL/Pokedex?tab=readme-ov-file#settings)
+- [Used technologies and libraries](#used-technologies-and-libraries)
+- [Splash Screen](#splash-screen)
+- [Pokedex section](#pokedex-section)
+- [Pokemon](#pokemon)
+- [Favourite section](#favourite-section)
+- [Search](#search)
+- [Settings](#settings)
 
 ## Used technologies and libraries
 - **[Swift](https://www.swift.org/documentation/)**,  
@@ -32,7 +32,7 @@ Based on **PokeApi**: https://pokeapi.co
 <a name="splash_screen"></a>
 ## Splash Screen
 <p align="center"> 
-<img src="https://github.com/VrickPL/Pokedex/assets/122796088/1b537a38-f8dc-4b18-b6ae-fd86a17cf49c)" width="310" height="660">
+<img src="https://github.com/jkazubski/Pokedex/assets/122796088/1b537a38-f8dc-4b18-b6ae-fd86a17cf49c)" width="310" height="660">
 </p>
 
 
@@ -44,10 +44,10 @@ The tip at the top teaches you that you can click on Pokémon and see some detai
 If you want to refresh downloaded Pokemons, you can just drag the screen down.
 
 <p align="center"> 
-<img src="https://github.com/VrickPL/Pokedex/assets/122796088/10e39f19-d594-4d94-adfd-e5889172176b" width="310" height="660">
+<img src="https://github.com/jkazubski/Pokedex/assets/122796088/10e39f19-d594-4d94-adfd-e5889172176b" width="310" height="660">
 </p>
 
-https://github.com/VrickPL/Pokedex/assets/122796088/68c9c102-09d1-4bb1-ac11-1fd7b7d70aea
+https://github.com/jkazubski/Pokedex/assets/122796088/68c9c102-09d1-4bb1-ac11-1fd7b7d70aea
 
 
 <a name="pokemon"></a>
@@ -62,13 +62,13 @@ When you catch the Pokemon you will see a Pokeball in the top right corner of it
 
 
 <p align="center"> 
-<img src="https://github.com/VrickPL/Pokedex/assets/122796088/8cd0d820-34e4-41b4-86c8-2e956139b235" width="310" height="660">
-<img src="https://github.com/VrickPL/Pokedex/assets/122796088/03222673-baf0-47fe-ba92-6fc9a4c074e8" width="310" height="660">
+<img src="https://github.com/jkazubski/Pokedex/assets/122796088/8cd0d820-34e4-41b4-86c8-2e956139b235" width="310" height="660">
+<img src="https://github.com/jkazubski/Pokedex/assets/122796088/03222673-baf0-47fe-ba92-6fc9a4c074e8" width="310" height="660">
 </p>
   
 <p align="center"> 
-<img src="https://github.com/VrickPL/Pokedex/assets/122796088/1d4accf4-3ab2-4931-99cb-d10466f74090" width="310" height="660">
-<img src="https://github.com/VrickPL/Pokedex/assets/122796088/58ebd0be-9859-49f9-8df4-fba833894522" width="310" height="660">
+<img src="https://github.com/jkazubski/Pokedex/assets/122796088/1d4accf4-3ab2-4931-99cb-d10466f74090" width="310" height="660">
+<img src="https://github.com/jkazubski/Pokedex/assets/122796088/58ebd0be-9859-49f9-8df4-fba833894522" width="310" height="660">
 </p>
 
 
@@ -78,10 +78,10 @@ In this section, you will see Pokemons that you have caught.
 You can release them here by clicking a bin or click on it to see its details.
 
 <p align="center"> 
-<img src="https://github.com/VrickPL/Pokedex/assets/122796088/5eece593-bfb2-4da7-ae27-6d612bb97b2b" width="310" height="660">
+<img src="https://github.com/jkazubski/Pokedex/assets/122796088/5eece593-bfb2-4da7-ae27-6d612bb97b2b" width="310" height="660">
 </p>
 
-https://github.com/VrickPL/Pokedex/assets/122796088/9715c7e0-153c-47a4-8c29-95d368efbb06
+https://github.com/jkazubski/Pokedex/assets/122796088/9715c7e0-153c-47a4-8c29-95d368efbb06
 
 
 <a name="search"></a>
@@ -91,7 +91,7 @@ You can also change search algorithm in **Settings** and search for Pokemons by 
 If a Pokemon is caught, you will also see a Pokeball in the preview image.
 
 <p align="center"> 
-<img src="https://github.com/VrickPL/Pokedex/assets/122796088/f2c78edf-d896-4be7-9566-44af1c42cdf3" width="310" height="660">
+<img src="https://github.com/jkazubski/Pokedex/assets/122796088/f2c78edf-d896-4be7-9566-44af1c42cdf3" width="310" height="660">
 </p>
 
 
@@ -107,7 +107,7 @@ Your choices will be saved in **AppStorage**.
 In this section, you can also find my **Github** and **LinkedIn** profiles. 
 
 <p align="center"> 
-<img src="https://github.com/VrickPL/Pokedex/assets/122796088/28cc5c13-570a-42ab-ab43-bb10bdff4dc1" width="310" height="660">
+<img src="https://github.com/jkazubski/Pokedex/assets/122796088/28cc5c13-570a-42ab-ab43-bb10bdff4dc1" width="310" height="660">
 </p>
 
-https://github.com/VrickPL/Pokedex/assets/122796088/cb4fa042-00b7-4bfa-b5f2-f4a9c96225a1
+https://github.com/jkazubski/Pokedex/assets/122796088/cb4fa042-00b7-4bfa-b5f2-f4a9c96225a1
